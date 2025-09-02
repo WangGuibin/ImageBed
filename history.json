@@ -1,0 +1,22 @@
+{
+  "version" : "1.0",
+  "lastUpdated" : 1756840157.7260199,
+  "histories" : [
+    {
+      "category" : "国产剧",
+      "videoTitle" : "归队",
+      "historyID" : "caiji.moduapi.cc_61698_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1756839417,
+      "totalEpisodes" : 20,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第13集",
+      "episodeDuration" : 2769.5630000000001,
+      "createTime" : 1756839385,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20250825-1\/b29f3491cfe25df204621fb20b0303d4.jpg",
+      "watchProgress" : 473.19837693699998,
+      "videoID" : "61698",
+      "currentEpisodeIndex" : 12,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/"
+    }
+  ]
+}
