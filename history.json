@@ -1,7 +1,23 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1756902209.034915,
+  "lastUpdated" : 1756902596.872319,
   "histories" : [
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "一世独尊",
+      "historyID" : "caiji.moduapi.cc_37810_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1756902209.0316801,
+      "totalEpisodes" : 155,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第155集",
+      "episodeDuration" : 716.26499999999999,
+      "createTime" : 1756902209.031575,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20240915-6\/fe51451448891fd24ade1480b2554659.jpg",
+      "watchProgress" : 537.37800000000004,
+      "videoID" : "37810",
+      "currentEpisodeIndex" : 154,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/"
+    },
     {
       "category" : "国产动漫",
       "videoTitle" : "君有云第二季",
@@ -224,22 +240,6 @@
       "watchProgress" : 119.72499999999999,
       "videoID" : "8692",
       "currentEpisodeIndex" : 186,
-      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/"
-    },
-    {
-      "category" : "国产动漫",
-      "videoTitle" : "一世独尊",
-      "historyID" : "caiji.moduapi.cc_37810_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1756902209.0316801,
-      "totalEpisodes" : 155,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第155集",
-      "episodeDuration" : 716.26499999999999,
-      "createTime" : 1756902209.031575,
-      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20240915-6\/fe51451448891fd24ade1480b2554659.jpg",
-      "watchProgress" : 537.37800000000004,
-      "videoID" : "37810",
-      "currentEpisodeIndex" : 154,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/"
     }
   ]
