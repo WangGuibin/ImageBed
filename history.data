@@ -1,7 +1,24 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1758029900.2439761,
+  "lastUpdated" : 1758032513.0402231,
   "histories" : [
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "凡人修仙传",
+      "historyID" : "caiji.moduapi.cc_4538_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1758032469.644522,
+      "totalEpisodes" : 162,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第160集",
+      "episodeDuration" : 1270.402,
+      "createTime" : 1757134846,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20230909-1\/0cf480fcdd7c5b9524cd4b0518cead9b.jpg",
+      "watchProgress" : 1066.4780000000001,
+      "videoID" : "4538",
+      "currentEpisodeIndex" : 161,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
+      "status" : 0
+    },
     {
       "category" : "国产动漫",
       "videoTitle" : "万界独尊",
@@ -207,24 +224,6 @@
       "status" : 0
     },
     {
-      "category" : "中国动漫",
-      "videoTitle" : "斗破苍穹 年番",
-      "historyID" : "jszyapi.com_456_https:__jszyapi.com_api.php_provide_vod",
-      "lastWatchTime" : 1757788691,
-      "totalEpisodes" : 164,
-      "currentEpisodeSourceIndex" : 1,
-      "currentEpisodeName" : "第164集",
-      "episodeDuration" : 1327.625,
-      "createTime" : 1757206129,
-      "videoPoster" : "https:\/\/img.jisuimage.com\/cover\/5988319f8fdeb1b2d254a9a38518f52e.jpg",
-      "watchProgress" : 929.11218686500001,
-      "videoID" : "456",
-      "currentEpisodeIndex" : 163,
-      "deleteTime" : 1758026950,
-      "dataSourceURL" : "https:\/\/jszyapi.com\/api.php\/provide\/vod",
-      "status" : 1
-    },
-    {
       "category" : "国产动漫",
       "videoTitle" : "妖神记",
       "historyID" : "caiji.moduapi.cc_3466_https:__caiji.moduapi.cc_api.php_provide_vod_",
@@ -273,23 +272,6 @@
       "videoID" : "60789",
       "currentEpisodeIndex" : 6,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 0
-    },
-    {
-      "category" : "动漫",
-      "videoTitle" : "凡人修仙传",
-      "historyID" : "gctf.tfdh.top_219077_https:__gctf.tfdh.top_api.php_provide_vod_",
-      "lastWatchTime" : 1757743061,
-      "totalEpisodes" : 160,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "160",
-      "episodeDuration" : 0,
-      "createTime" : 1757134846,
-      "videoPoster" : "https:\/\/i0.hdslb.com\/bfs\/bangumi\/image\/ee347bb7ec67696bce514d51b4cef55a5e192284.png",
-      "watchProgress" : 0,
-      "videoID" : "219077",
-      "currentEpisodeIndex" : 159,
-      "dataSourceURL" : "https:\/\/gctf.tfdh.top\/api.php\/provide\/vod\/",
       "status" : 0
     },
     {
