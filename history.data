@@ -1,7 +1,24 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1758032513.0402231,
+  "lastUpdated" : 1758033283.1480169,
   "histories" : [
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "遮天",
+      "historyID" : "caiji.moduapi.cc_7887_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1758033270.4396691,
+      "totalEpisodes" : 127,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第127集",
+      "episodeDuration" : 1447.7619999999999,
+      "createTime" : 1756840223,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20240328-1\/61f0a8a535d471b1d3e9a76404148e17.jpg",
+      "watchProgress" : 1191.364,
+      "videoID" : "7887",
+      "currentEpisodeIndex" : 126,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
+      "status" : 0
+    },
     {
       "category" : "国产动漫",
       "videoTitle" : "凡人修仙传",
@@ -391,23 +408,6 @@
       "videoID" : "83798",
       "currentEpisodeIndex" : 8,
       "dataSourceURL" : "https:\/\/jyzyapi.com\/api.php\/provide\/vod\/",
-      "status" : 0
-    },
-    {
-      "category" : "国产动漫",
-      "videoTitle" : "遮天",
-      "historyID" : "caiji.moduapi.cc_7887_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1757283811,
-      "totalEpisodes" : 125,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第125集",
-      "episodeDuration" : 1349.722,
-      "createTime" : 1756840223,
-      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20240328-1\/61f0a8a535d471b1d3e9a76404148e17.jpg",
-      "watchProgress" : 1117.7750929419999,
-      "videoID" : "7887",
-      "currentEpisodeIndex" : 124,
-      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
       "status" : 0
     },
     {
