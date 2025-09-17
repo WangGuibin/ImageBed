@@ -1,12 +1,29 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1758081698.2996111,
+  "lastUpdated" : 1758109064.210721,
   "histories" : [
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "凌天独尊",
+      "historyID" : "caiji.moduapi.cc_58588_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1758109043.0073709,
+      "totalEpisodes" : 26,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第26集",
+      "episodeDuration" : 632.58500000000004,
+      "createTime" : 1757176138,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20250702-6\/b254447100134ed9e05a1081c8004429.jpg",
+      "watchProgress" : 545.78844444444439,
+      "videoID" : "58588",
+      "currentEpisodeIndex" : 25,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
+      "status" : 0
+    },
     {
       "category" : "国产动漫",
       "videoTitle" : "一世独尊",
       "historyID" : "caiji.moduapi.cc_37810_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1758081675.744575,
+      "lastWatchTime" : 1758081675,
       "totalEpisodes" : 159,
       "currentEpisodeSourceIndex" : 0,
       "currentEpisodeName" : "第159集",
@@ -289,23 +306,6 @@
       "videoID" : "3466",
       "currentEpisodeIndex" : 399,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 0
-    },
-    {
-      "category" : "中国动漫",
-      "videoTitle" : "凌天独尊",
-      "historyID" : "jyzyapi.com_82411_https:__jyzyapi.com_provide_vod_from_jinyingm3u8_",
-      "lastWatchTime" : 1757757083,
-      "totalEpisodes" : 25,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第25集",
-      "episodeDuration" : 605.20799999999997,
-      "createTime" : 1757176138,
-      "videoPoster" : "https:\/\/image.jinyingimage.com\/cover\/6f2f2c810533a6586f68402214344732.jpg",
-      "watchProgress" : 63.698976559999998,
-      "videoID" : "82411",
-      "currentEpisodeIndex" : 24,
-      "dataSourceURL" : "https:\/\/jyzyapi.com\/provide\/vod\/from\/jinyingm3u8\/",
       "status" : 0
     },
     {
