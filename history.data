@@ -1,7 +1,41 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1758034413.505888,
+  "lastUpdated" : 1758081698.2996111,
   "histories" : [
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "一世独尊",
+      "historyID" : "caiji.moduapi.cc_37810_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1758081675.744575,
+      "totalEpisodes" : 159,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第159集",
+      "episodeDuration" : 702.46400000000006,
+      "createTime" : 1757254503,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20240915-6\/fe51451448891fd24ade1480b2554659.jpg",
+      "watchProgress" : 474.756882201,
+      "videoID" : "37810",
+      "currentEpisodeIndex" : 158,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
+      "status" : 0
+    },
+    {
+      "category" : "国产动漫",
+      "videoTitle" : "君有云第二季",
+      "historyID" : "caiji.moduapi.cc_56426_https:__caiji.moduapi.cc_api.php_provide_vod_",
+      "lastWatchTime" : 1758080270,
+      "totalEpisodes" : 20,
+      "currentEpisodeSourceIndex" : 0,
+      "currentEpisodeName" : "第20集",
+      "episodeDuration" : 1217.402,
+      "createTime" : 1756902209,
+      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20250528-1\/b1808892367ac4ea3e875b236eda7aaf.jpg",
+      "watchProgress" : 266.17993224700001,
+      "videoID" : "56426",
+      "currentEpisodeIndex" : 19,
+      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
+      "status" : 0
+    },
     {
       "category" : "国产动漫",
       "videoTitle" : "遮天",
@@ -292,23 +326,6 @@
       "status" : 0
     },
     {
-      "category" : "中国动漫",
-      "videoTitle" : "一世独尊",
-      "historyID" : "jyzyapi.com_42760_https:__jyzyapi.com_api.php_provide_vod_",
-      "lastWatchTime" : 1757742943,
-      "totalEpisodes" : 158,
-      "currentEpisodeSourceIndex" : 1,
-      "currentEpisodeName" : "第158集",
-      "episodeDuration" : 676,
-      "createTime" : 1757254503,
-      "videoPoster" : "https:\/\/image.jinyingimage.com\/cover\/d85626011c06e9cf0a41beaf4102e1fd.jpg",
-      "watchProgress" : 201.138001,
-      "videoID" : "42760",
-      "currentEpisodeIndex" : 157,
-      "dataSourceURL" : "https:\/\/jyzyapi.com\/api.php\/provide\/vod\/",
-      "status" : 0
-    },
-    {
       "category" : "国产动漫",
       "videoTitle" : "龙族第二季",
       "historyID" : "caiji.moduapi.cc_59542_https:__caiji.moduapi.cc_api.php_provide_vod_",
@@ -340,23 +357,6 @@
       "videoID" : "6308",
       "currentEpisodeIndex" : 231,
       "dataSourceURL" : "https:\/\/collect.wolongzy.cc\/api.php\/provide\/vod\/",
-      "status" : 0
-    },
-    {
-      "category" : "国产动漫",
-      "videoTitle" : "君有云第二季",
-      "historyID" : "caiji.moduapi.cc_56426_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1757699543,
-      "totalEpisodes" : 19,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第19集",
-      "episodeDuration" : 0,
-      "createTime" : 1756902209,
-      "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20250528-1\/b1808892367ac4ea3e875b236eda7aaf.jpg",
-      "watchProgress" : 0,
-      "videoID" : "56426",
-      "currentEpisodeIndex" : 18,
-      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
       "status" : 0
     },
     {
