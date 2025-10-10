@@ -1,21 +1,21 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1760112351.693639,
+  "lastUpdated" : 1760139892.6149778,
   "histories" : [
     {
       "category" : "国产动漫",
       "videoTitle" : "妖神记",
       "historyID" : "caiji.moduapi.cc_3466_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1760112329.603307,
+      "lastWatchTime" : 1760139871.647289,
       "totalEpisodes" : 432,
       "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第424集",
+      "currentEpisodeName" : "第432集",
       "episodeDuration" : 0,
       "createTime" : 1756902209,
       "videoPoster" : "https:\/\/tu.moduzytupian.com\/upload\/vod\/20230828-1\/362bdead83b62180feac74f8263c96d7.jpg",
       "watchProgress" : 0,
       "videoID" : "3466",
-      "currentEpisodeIndex" : 423,
+      "currentEpisodeIndex" : 431,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
       "status" : 0
     },
