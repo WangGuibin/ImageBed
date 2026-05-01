@@ -1,6 +1,6 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1777646824.6209579,
+  "lastUpdated" : 1777647353.8695669,
   "histories" : [
     {
       "category" : "国产动漫",
@@ -33,9 +33,8 @@
       "watchProgress" : 0,
       "videoID" : "48448",
       "currentEpisodeIndex" : 1,
-      "deleteTime" : 1777646786.8425941,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -51,9 +50,8 @@
       "watchProgress" : 346.16000000000003,
       "videoID" : "71323",
       "currentEpisodeIndex" : 0,
-      "deleteTime" : 1777646784.4927669,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -69,9 +67,8 @@
       "watchProgress" : 0,
       "videoID" : "60789",
       "currentEpisodeIndex" : 19,
-      "deleteTime" : 1777646781.3268518,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -87,9 +84,8 @@
       "watchProgress" : 0,
       "videoID" : "56426",
       "currentEpisodeIndex" : 30,
-      "deleteTime" : 1777646779.39255,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -122,9 +118,8 @@
       "watchProgress" : 0,
       "videoID" : "58588",
       "currentEpisodeIndex" : 50,
-      "deleteTime" : 1777646774.4425189,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -157,9 +152,8 @@
       "watchProgress" : 0,
       "videoID" : "59542",
       "currentEpisodeIndex" : 23,
-      "deleteTime" : 1777646759.4591651,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -175,9 +169,8 @@
       "watchProgress" : 0,
       "videoID" : "58776",
       "currentEpisodeIndex" : 24,
-      "deleteTime" : 1777646757.442584,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -193,9 +186,8 @@
       "watchProgress" : 0,
       "videoID" : "65593",
       "currentEpisodeIndex" : 9,
-      "deleteTime" : 1777646762.57529,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -279,9 +271,8 @@
       "watchProgress" : 0,
       "videoID" : "9052",
       "currentEpisodeIndex" : 389,
-      "deleteTime" : 1777646794.9754071,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -297,9 +288,8 @@
       "watchProgress" : 0,
       "videoID" : "16720",
       "currentEpisodeIndex" : 133,
-      "deleteTime" : 1777646797.176614,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -315,9 +305,8 @@
       "watchProgress" : 0,
       "videoID" : "9061",
       "currentEpisodeIndex" : 469,
-      "deleteTime" : 1777646799.3269041,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -333,9 +322,8 @@
       "watchProgress" : 0,
       "videoID" : "9082",
       "currentEpisodeIndex" : 549,
-      "deleteTime" : 1777646801.3427691,
       "dataSourceURL" : "https:\/\/moduzy15.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -402,9 +390,8 @@
       "watchProgress" : 1269.5081767270001,
       "videoID" : "69671",
       "currentEpisodeIndex" : 1,
-      "deleteTime" : 1777646805.7422481,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "中国动漫",
@@ -420,9 +407,8 @@
       "watchProgress" : 376.68800000000005,
       "videoID" : "32049",
       "currentEpisodeIndex" : 578,
-      "deleteTime" : 1777646808.8271279,
       "dataSourceURL" : "https:\/\/jyzyapi.com\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -438,9 +424,8 @@
       "watchProgress" : 0,
       "videoID" : "69002",
       "currentEpisodeIndex" : 0,
-      "deleteTime" : 1777646812.0768008,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -473,9 +458,8 @@
       "watchProgress" : 267.189520448,
       "videoID" : "8839",
       "currentEpisodeIndex" : 165,
-      "deleteTime" : 1777646814.5594611,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "中国动漫",
@@ -491,9 +475,8 @@
       "watchProgress" : 478.83200599999998,
       "videoID" : "105408",
       "currentEpisodeIndex" : 13,
-      "deleteTime" : 1777646816.292743,
       "dataSourceURL" : "https:\/\/hhzyapi.com\/api.php\/provide\/vod",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
@@ -509,9 +492,8 @@
       "watchProgress" : 0,
       "videoID" : "57637",
       "currentEpisodeIndex" : 336,
-      "deleteTime" : 1777646818.1267529,
       "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
+      "status" : 0
     },
     {
       "category" : "国产动漫",
