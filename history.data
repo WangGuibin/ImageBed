@@ -1,25 +1,7 @@
 {
   "version" : "1.0",
-  "lastUpdated" : 1777635778.8238039,
+  "lastUpdated" : 1777645887.7992768,
   "histories" : [
-    {
-      "category" : "里番动漫",
-      "videoTitle" : "好色上班族",
-      "historyID" : "caiji.moduapi.cc_51_https:__caiji.moduapi.cc_api.php_provide_vod_",
-      "lastWatchTime" : 1777635247.2204871,
-      "totalEpisodes" : 4,
-      "currentEpisodeSourceIndex" : 0,
-      "currentEpisodeName" : "第01集",
-      "episodeDuration" : 1545.1379999999999,
-      "createTime" : 1777634882.335201,
-      "videoPoster" : "https:\/\/www.mdzywtupian.com\/upload\/vod\/20230703-1\/2321806ea27e0b6700b137918114d38f.jpg",
-      "watchProgress" : 683.41107099999999,
-      "videoID" : "51",
-      "currentEpisodeIndex" : 0,
-      "deleteTime" : 1777635293.5177469,
-      "dataSourceURL" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/",
-      "status" : 1
-    },
     {
       "category" : "国产动漫",
       "videoTitle" : "神印王座",
